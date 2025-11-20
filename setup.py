@@ -8,6 +8,10 @@ import sys
 import subprocess
 from pathlib import Path
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 def check_python_version():
@@ -142,10 +146,6 @@ def main():
 
 
 if __name__ == "__main__":
-    # Set default AWS environment variables
-    os.environ.setdefault("AWS_ACCESS_KEY_ID", "AKIA3KIMWZKIZW3VIROT")
-    os.environ.setdefault("AWS_SECRET_ACCESS_KEY", "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")
-    os.environ.setdefault("AWS_DEFAULT_REGION", "us-east-1")
-    
+    # Environment variables are loaded from .env file via load_dotenv()
     success = main()
     sys.exit(0 if success else 1)
