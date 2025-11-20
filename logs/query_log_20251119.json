@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-11-19T18:14:34.641076",
+    "session_id": "df952d2b-cd87-49ab-b7a4-c4d5b39ed9b7",
+    "query": "What is the main topic of this document?",
+    "response": "",
+    "retrieval_strategy": "semantic",
+    "documents_retrieved": [],
+    "performance_metrics": {
+      "retrieval_latency_ms": 0.0,
+      "llm_latency_ms": 0.0,
+      "total_latency_ms": 5689.03,
+      "num_documents_retrieved": 0,
+      "num_tokens_input": 0,
+      "num_tokens_output": 0
+    },
+    "ragas_metrics": null,
+    "responsible_ai_events": [],
+    "success": false,
+    "error_message": "An error occurred (AccessDeniedException) when calling the InvokeModel operation: Model access is denied due to INVALID_PAYMENT_INSTRUMENT:A valid payment instrument must be provided.. Your AWS Marketplace subscription for this model cannot be completed at this time. If you recently fixed this issue, try again after 15 minutes."
+  },
+  {
+    "timestamp": "2025-11-19T18:17:59.544404",
+    "session_id": "9dcb6dc2-f9d9-4b26-9eb3-0c75c4d198d7",
+    "query": "What is the main topic of this document?",
+    "response": "",
+    "retrieval_strategy": "semantic",
+    "documents_retrieved": [],
+    "performance_metrics": {
+      "retrieval_latency_ms": 0.0,
+      "llm_latency_ms": 0.0,
+      "total_latency_ms": 848.01,
+      "num_documents_retrieved": 0,
+      "num_tokens_input": 0,
+      "num_tokens_output": 0
+    },
+    "ragas_metrics": null,
+    "responsible_ai_events": [],
+    "success": false,
+    "error_message": "An error occurred (AccessDeniedException) when calling the InvokeModel operation: Model access is denied due to INVALID_PAYMENT_INSTRUMENT:A valid payment instrument must be provided.. Your AWS Marketplace subscription for this model cannot be completed at this time. If you recently fixed this issue, try again after 15 minutes."
+  },
+  {
+    "timestamp": "2025-11-19T18:18:31.298142",
+    "session_id": "1be78c87-c099-413c-a930-a9bb73c308de",
+    "query": "What is the main topic of this document?",
+    "response": "",
+    "retrieval_strategy": "semantic",
+    "documents_retrieved": [],
+    "performance_metrics": {
+      "retrieval_latency_ms": 0.0,
+      "llm_latency_ms": 0.0,
+      "total_latency_ms": 1055.8,
+      "num_documents_retrieved": 0,
+      "num_tokens_input": 0,
+      "num_tokens_output": 0
+    },
+    "ragas_metrics": null,
+    "responsible_ai_events": [],
+    "success": false,
+    "error_message": "An error occurred (AccessDeniedException) when calling the InvokeModel operation: Model access is denied due to INVALID_PAYMENT_INSTRUMENT:A valid payment instrument must be provided.. Your AWS Marketplace subscription for this model cannot be completed at this time. If you recently fixed this issue, try again after 15 minutes."
+  },
+  {
+    "timestamp": "2025-11-19T18:28:08.145538",
+    "session_id": "36a60a90-8859-4478-975f-72824c3bfde9",
+    "query": "What is the main topic of this document?",
+    "response": "",
+    "retrieval_strategy": "semantic",
+    "documents_retrieved": [],
+    "performance_metrics": {
+      "retrieval_latency_ms": 0.0,
+      "llm_latency_ms": 0.0,
+      "total_latency_ms": 5329.31,
+      "num_documents_retrieved": 0,
+      "num_tokens_input": 0,
+      "num_tokens_output": 0
+    },
+    "ragas_metrics": null,
+    "responsible_ai_events": [],
+    "success": false,
+    "error_message": "An error occurred (AccessDeniedException) when calling the InvokeModel operation: Model access is denied due to INVALID_PAYMENT_INSTRUMENT:A valid payment instrument must be provided.. Your AWS Marketplace subscription for this model cannot be completed at this time. If you recently fixed this issue, try again after 15 minutes."
+  }
+]

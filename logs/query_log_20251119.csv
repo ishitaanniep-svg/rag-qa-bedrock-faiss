@@ -1,0 +1,5 @@
+timestamp,session_id,query,response,retrieval_strategy,num_documents,retrieval_latency_ms,llm_latency_ms,total_latency_ms,faithfulness,context_recall,meets_threshold,response_filtered,success
+2025-11-19T18:14:34.641076,df952d2b-cd87-49ab-b7a4-c4d5b39ed9b7,What is the main topic of this document?,,semantic,0,0.0,0.0,5689.03,N/A,N/A,N/A,False,False
+2025-11-19T18:17:59.544404,9dcb6dc2-f9d9-4b26-9eb3-0c75c4d198d7,What is the main topic of this document?,,semantic,0,0.0,0.0,848.01,N/A,N/A,N/A,False,False
+2025-11-19T18:18:31.298142,1be78c87-c099-413c-a930-a9bb73c308de,What is the main topic of this document?,,semantic,0,0.0,0.0,1055.8,N/A,N/A,N/A,False,False
+2025-11-19T18:28:08.145538,36a60a90-8859-4478-975f-72824c3bfde9,What is the main topic of this document?,,semantic,0,0.0,0.0,5329.31,N/A,N/A,N/A,False,False

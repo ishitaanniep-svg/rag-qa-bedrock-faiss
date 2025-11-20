@@ -1,0 +1,66 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Vector Store (sensitive data)
+faiss_store/
+*.faiss
+*.pkl
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Streamlit
+.streamlit/
+*.streamlit.app
+
+# AWS
+.aws/
+credentials
+config
+
+# Temporary files
+temp_*
+*.tmp
+*.log
+
+# Chat history
+chat_history.json
+
+# Config files (local)
+config.json
+metadata.json
+
+# OS
+Thumbs.db
+.DS_Store
